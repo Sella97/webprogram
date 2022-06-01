@@ -1,0 +1,22 @@
+header h1 {
+    float: left;
+    color: #1df3ac;
+}
+header ul {
+    float: right;
+}
+header ul li {
+    display: inline-block;
+}
+header ul li a {
+    padding:25px 20px;
+    display: inline-block;
+}
+header ul li a:hover {
+    background-color:#1df3ac ;
+    color: #fff;
+}
+.active {
+    background-color:#1df3ac ;
+    color: #fff;
+}

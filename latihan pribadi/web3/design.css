@@ -1,0 +1,16 @@
+.jumbotron{
+padding-top: 6rem;
+background-color:rgba(206, 206, 121, 0.884) ;
+}
+#About {
+    padding-top: 6rem;
+}
+.display-4 {
+    text-align: center;
+}
+.lead {
+    text-align: center;
+}
+#Memories{
+    padding-top: 6rem;
+}
